@@ -1,0 +1,200 @@
+[
+  {
+    "State": "Michigan",
+    "unemploymentRate": "0.0570"
+  },
+  {
+    "State": "Virginia",
+    "unemploymentRate": "0.0500"
+  },
+  {
+    "State": "Kansas",
+    "unemploymentRate": "0.0490"
+  },
+  {
+    "State": "New Hampshire",
+    "unemploymentRate": "0.0470"
+  },
+  {
+    "State": "Alabama",
+    "unemploymentRate": "0.0460"
+  },
+  {
+    "State": "Oklahoma",
+    "unemploymentRate": "0.0450"
+  },
+  {
+    "State": "Iowa",
+    "unemploymentRate": "0.0430"
+  },
+  {
+    "State": "Vermont",
+    "unemploymentRate": "0.0430"
+  },
+  {
+    "State": "North Carolina",
+    "unemploymentRate": "0.0420"
+  },
+  {
+    "State": "New Jersey",
+    "unemploymentRate": "0.0400"
+  },
+  {
+    "State": "Arizona",
+    "unemploymentRate": "0.0390"
+  },
+  {
+    "State": "Colorado",
+    "unemploymentRate": "0.0390"
+  },
+  {
+    "State": "Maryland",
+    "unemploymentRate": "0.0390"
+  },
+  {
+    "State": "Montana",
+    "unemploymentRate": "0.0380"
+  },
+  {
+    "State": "California",
+    "unemploymentRate": "0.0370"
+  },
+  {
+    "State": "Hawaii",
+    "unemploymentRate": "0.0370"
+  },
+  {
+    "State": "New Mexico",
+    "unemploymentRate": "0.0370"
+  },
+  {
+    "State": "Ohio",
+    "unemploymentRate": "0.0370"
+  },
+  {
+    "State": "West Virginia",
+    "unemploymentRate": "0.0370"
+  },
+  {
+    "State": "Alaska",
+    "unemploymentRate": "0.0360"
+  },
+  {
+    "State": "Louisiana",
+    "unemploymentRate": "0.0350"
+  },
+  {
+    "State": "Nevada",
+    "unemploymentRate": "0.0350"
+  },
+  {
+    "State": "Oregon",
+    "unemploymentRate": "0.0350"
+  },
+  {
+    "State": "South Dakota",
+    "unemploymentRate": "0.0350"
+  },
+  {
+    "State": "Mississippi",
+    "unemploymentRate": "0.0340"
+  },
+  {
+    "State": "North Dakota",
+    "unemploymentRate": "0.0340"
+  },
+  {
+    "State": "Washington",
+    "unemploymentRate": "0.0340"
+  },
+  {
+    "State": "Massachusetts",
+    "unemploymentRate": "0.0330"
+  },
+  {
+    "State": "Minnesota",
+    "unemploymentRate": "0.0330"
+  },
+  {
+    "State": "South Carolina",
+    "unemploymentRate": "0.0330"
+  },
+  {
+    "State": "Delaware",
+    "unemploymentRate": "0.0320"
+  },
+  {
+    "State": "Idaho",
+    "unemploymentRate": "0.0320"
+  },
+  {
+    "State": "Indiana",
+    "unemploymentRate": "0.0320"
+  },
+  {
+    "State": "Rhode Island",
+    "unemploymentRate": "0.0320"
+  },
+  {
+    "State": "Missouri",
+    "unemploymentRate": "0.0310"
+  },
+  {
+    "State": "Connecticut",
+    "unemploymentRate": "0.0300"
+  },
+  {
+    "State": "Georgia",
+    "unemploymentRate": "0.0290"
+  },
+  {
+    "State": "Kentucky",
+    "unemploymentRate": "0.0290"
+  },
+  {
+    "State": "Maine",
+    "unemploymentRate": "0.0280"
+  },
+  {
+    "State": "Florida",
+    "unemploymentRate": "0.0260"
+  },
+  {
+    "State": "Illinois",
+    "unemploymentRate": "0.0260"
+  },
+  {
+    "State": "Nebraska",
+    "unemploymentRate": "0.0260"
+  },
+  {
+    "State": "Utah",
+    "unemploymentRate": "0.0260"
+  },
+  {
+    "State": "Arkansas",
+    "unemploymentRate": "0.0250"
+  },
+  {
+    "State": "New York",
+    "unemploymentRate": "0.0240"
+  },
+  {
+    "State": "Pennsylvania",
+    "unemploymentRate": "0.0230"
+  },
+  {
+    "State": "Tennessee",
+    "unemploymentRate": "0.0230"
+  },
+  {
+    "State": "Texas",
+    "unemploymentRate": "0.0230"
+  },
+  {
+    "State": "Wisconsin"
+  },
+  {
+    "State": "Wyoming"
+  }
+]
